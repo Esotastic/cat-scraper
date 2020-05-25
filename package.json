@@ -1,0 +1,25 @@
+{
+  "name": "cat-scraper",
+  "version": "1.0.0",
+  "description": "A lil tool built to help people find cats",
+  "main": "catScraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^3.1.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esotastic/cat-scraper.git"
+  },
+  "author": "Chris Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esotastic/cat-scraper/issues"
+  },
+  "homepage": "https://github.com/Esotastic/cat-scraper#readme"
+}
